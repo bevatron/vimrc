@@ -196,6 +196,7 @@ map <leader>b :CtrlPBuffer<CR>
 
 nnoremap <leader>ri :RunInInteractiveShell<space>
 
+inoremap fd <Esc>
 
 " ---- display related ----
 set shortmess=atI    " remove display of donation
